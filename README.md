@@ -1,2 +1,2 @@
-# zwift-skill
+# zwiftskill
 zwift skill
