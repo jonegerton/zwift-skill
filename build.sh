@@ -1,3 +1,3 @@
 #!/bin/bash
 GOOS=linux go build
-zip zwiftskill.zip ./zwiftskill
+zip zwiftaideskill.zip ./zwiftaideskill
